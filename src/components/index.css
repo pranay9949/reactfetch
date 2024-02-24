@@ -1,0 +1,32 @@
+.cont{
+    background-color: #1a1a1c;
+    min-height: 100vh;
+    width:100%;
+}
+.sub-cont{
+    display: flex;
+    color: #ffffff;
+    margin-block: 15px;
+    justify-content: space-evenly;
+}
+.img-element{
+   display: flex;
+
+}
+img{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+.under-line{
+    height: 1px;
+    width: 95%;
+    background-color:grey;
+    margin-left: 2.5%;
+}
+.clr-p{
+    color: green;
+}
+.clr-n{
+    color:red
+}
